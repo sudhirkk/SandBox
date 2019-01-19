@@ -4,8 +4,8 @@
  * light up LED in pin # 13 accordingly and display back to the
  * serial monitor.
  *
- * Author: Sudhir K. Warrier
- * 09/05/2012, Wednesday
+ * Author: Sudhir K
+ * 09/05/2012
  *
  */
 
